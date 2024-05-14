@@ -12,6 +12,15 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        'reddit-gray': 'rgb(229, 235, 238)',
+        'levelsfyi-gray': 'rgb(237, 237, 240)',
+        'figma-gray': '#ECECEC'
+      },
+      width: {
+        'desktop-width': '1150px',
+        'form-width': '575px',
+      }
     },
   },
   plugins: [],
